@@ -1,4 +1,4 @@
-# Goodera NPO Media Processor
+# Goodera NPO Media Processor 
 
 Internal tool for triggering the image scraper and Relay social-handle discovery workflow per NPO partner.
 
